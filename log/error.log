@@ -1,0 +1,64 @@
+2019/10/17 23:21:21 [error] 8475#8475: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:27:49 [error] 9420#9420: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:27:50 [error] 9420#9420: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:27:51 [error] 9420#9420: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:35:23 [error] 9420#9420: *7 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:35:24 [error] 9420#9420: *7 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:37:00 [error] 9828#9828: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:37:00 [error] 9828#9828: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/"
+2019/10/17 23:39:23 [error] 9828#9828: *7 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/public/index.php"
+2019/10/17 23:39:24 [error] 9828#9828: *7 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/public/index.php"
+2019/10/17 23:39:24 [error] 9828#9828: *7 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/public/index.php"
+2019/10/17 23:41:22 [error] 10212#10212: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/public/index.php"
+2019/10/17 23:41:23 [error] 10212#10212: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/public/index.php"
+2019/10/17 23:41:27 [error] 10212#10212: *5 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "HEAD / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:41:29 [error] 10212#10212: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/public/index.php"
+2019/10/17 23:41:36 [error] 10212#10212: *1 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'.
+PHP message: PHP Fatal error:  Uncaught Error: Class 'CleanPhp\Invoicer\Domain\Entity\Order' not found in /home/gurik/1.dev/www/cleanphp/public/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gurik/1.dev/www/cleanphp/public/index.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:43:05 [error] 10212#10212: *10 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:43:06 [error] 10212#10212: *10 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/"
+2019/10/17 23:46:45 [error] 10212#10212: *14 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc"
+2019/10/17 23:46:45 [error] 10212#10212: *14 FastCGI sent in stderr: "PHP message: Xdebug could not open the remote debug file '/tmp/xdebug_remote.log'" while reading response header from upstream, client: 127.0.0.1, server: cleanphp.loc, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "cleanphp.loc", referrer: "http://cleanphp.loc/"

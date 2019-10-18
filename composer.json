@@ -1,0 +1,21 @@
+{
+  "name": "gurik/cleanphp",
+  "description": "clean architecture demo app",
+  "type": "project",
+  "require": {
+    "composer/composer": "^1.9"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Harry",
+      "email": "gurikin@yandex.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CleanPhp\\Invoicer\\": ["src/"]
+    }
+  }
+}
+
