@@ -2,9 +2,6 @@
   "name": "gurik/cleanphp",
   "description": "clean architecture demo app",
   "type": "project",
-  "require": {
-    "composer/composer": "^1.9"
-  },
   "license": "MIT",
   "authors": [
     {
@@ -16,6 +13,10 @@
     "psr-4": {
       "CleanPhp\\Invoicer\\": ["src/"]
     }
+  },
+  "require-dev": {
+    "peridot-php/peridot": "^1.19",
+    "peridot-php/leo": "^1.6",
+    "peridot-php/peridot-watcher-plugin": "^1.3"
   }
 }
-

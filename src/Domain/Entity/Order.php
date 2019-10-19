@@ -78,7 +78,7 @@ class Order
      */
     public function getTotal(): float
     {
-        return $this->total;
+        return $this->total ?? 0;
     }
 
     /**
