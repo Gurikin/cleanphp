@@ -3,7 +3,7 @@
 use CleanPhp\Invoicer\Domain\Entity\Order;
 use CleanPhp\Invoicer\Domain\Factory\InvoiceFactory\InvoiceFactory;
 
-describe('InvoiceFactory', function() {
+describe('InvoiceFactory', function () {
     describe('->createFromOrder()', function () {
         it('should return an order object', function () {
             $order = new Order();
